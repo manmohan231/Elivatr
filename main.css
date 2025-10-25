@@ -87,7 +87,7 @@ header {
 .navbar ul li a {
   text-decoration: none;
  color:#000;
-  font-weight: 500;
+  font-weight:;
   font-size:16px;
 }
 
@@ -2086,4 +2086,5 @@ grid-template-columns: repeat(3, 1fr);
 
 
 }
+
 
