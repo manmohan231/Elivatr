@@ -80,7 +80,7 @@ header {
 }
 
 .navbar ul li {
-  margin: 0 15px;
+  margin: 0 px;
   color: red;
 }
 
@@ -2086,5 +2086,6 @@ grid-template-columns: repeat(3, 1fr);
 
 
 }
+
 
 
